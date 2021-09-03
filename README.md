@@ -8,7 +8,7 @@ Include the date you created this project and README file.
 Bikeshare Data Script
 
 ### Description
-Describe what your project is about and what it does
+This is a python script project given by udacity that using numpy and pandas package. 
 
 ### Files used
 new york city.csv
