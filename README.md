@@ -17,6 +17,17 @@ chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 Sunday Ajayi
 AAL Team
 Udacity
+
+
+### Packages used
+numpy
+pandas
+
+
+### Author
+Sunday Ajayi
+
